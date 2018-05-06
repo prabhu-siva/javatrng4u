@@ -1,0 +1,13 @@
+{
+  "id" : 1,
+  "name" : "Prabhu",
+  "empRefID" : 2,
+  "addresses" : [ {
+    "street" : "MacArthur",
+    "city" : "iriving"
+  }, {
+    "street" : "N MacArthur",
+    "city" : "iriving"
+  } ],
+  "phoneNumbers" : [ 894384923, 234354324 ]
+}
